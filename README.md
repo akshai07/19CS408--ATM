@@ -1,7 +1,7 @@
 # 19CS408--ATM
-Ex-1 UML Diagrams for ATM & Banking Systems :
-NAME:AKSHAI KHANNA D
-REG NO:212223040010
+# Ex-1 UML Diagrams for ATM & Banking Systems :
+# NAME:AKSHAI KHANNA D
+# REG NO:212223040010
 # Aim :
 To create UML Diagrams for ATM & Banking systems using StarUML.
 
